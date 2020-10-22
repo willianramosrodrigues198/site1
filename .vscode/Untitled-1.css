@@ -1,0 +1,54 @@
+body {
+    background: rgb(196, 243, 239);
+    font-family: Verdana;
+}
+
+#title, .subtitle, .post_titled,
+.post_titled{
+    color: darkseagreen;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+.subtitle{
+    color: rgb(117, 109, 172);
+}
+.post_titled{
+    font-style: inherit;
+    color: rgb(234, 191, 245);
+}
+title{
+    color: rgb(113, 252, 0);
+    text-transform: uppercase;
+}
+a{
+    text-decoration: underline;
+    color: thistle;
+}
+.post {
+    background: rgb(204, 250, 198);
+    padding: 15px;
+    border: blue 3px solid;
+    margin-bottom: 10px;
+    border-radius: 1%;
+}
+.post_content
+{
+    margin: 0px;
+    margin-bottom: 15px;;
+}
+.notitled{
+    margin-bottom: 12px;
+}
+.img{
+    border-radius: 8px;
+}
+.doc{
+    margin-top: 57px;
+    margin-left: 0px;
+}
+.contact {
+    list-style: none;
+    padding: 0px;
+    padding-left: 15px;
+
+}
